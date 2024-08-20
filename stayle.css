@@ -1,9 +1,10 @@
 body {
     background-color: rgb(190, 95, 228);
+    text-align: center;
 }
 
 p {
-    color: rgb(0, 0, 0);
+    color: black;
 }
 
 .unicornio {
