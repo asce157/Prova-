@@ -9,13 +9,11 @@ nav a {
     font-size: 20px;
     color: black;(204, 168, 238, 0,192);
     display: flex;
-    justify-s unset;
-
-
+    justify-content: -center;
 }
-
-p {
-    color: black(183, 0, 255)
+h1 {
+   color:darkblue
+   padding-top: 5%;
 }
 
 .unicornio {
@@ -25,7 +23,7 @@ p {
 .imgl {
     width: 50%;
 }
-nav a {
-    color: blueviolet;
-
+.centro{
+    text-align: center;
 }
+
