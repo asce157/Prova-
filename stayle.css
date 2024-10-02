@@ -1,19 +1,21 @@
 body {
-    background-color: rgb(190, 95, 228);
+    background-color: rgb(190, 255, 245);
+    text-align: center;
     margin: 0px;
 }
-
-nav a {
-    margin-top: 5px;
-    padding: 2px;
-    font-size: 20px;
-    color: black;(204, 168, 238, 0,192);
-    display: flex;
-    justify-content:center;
+header {
+    border-bottom: solid 2px rgb(230, 123, 164)
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(235, 142, 185)
 }
-h1 {
-   color:darkblue
-   padding-top: 5%;
+section {
+   background: rgb(162, 250, 246)
+   padding-bottom: 80px;
+   padding-top: 80px;
+   display: flex;
+   justify-content: center 
+
 }
 
 .unicornio {
